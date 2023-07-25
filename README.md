@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @vxdone. but you can call me vix :)
-- 👀 I’m interested in creating websites from scratch.
-- 🌱 I’m currently learning html/css.
-- 💞️ I’m not looking for collaborations right now, sorry.
-
+- 👋 Hi, I’m @vxdone (she/her)! A high school student aspiring to be in the computer science field someday :)
+- 👀 I’m interested in frontend (HTML/CSS) and backend (Python) development!
+- 🌱 Currently learning Python & Python packages (Plotly + Pandas). 
+- 💻 Check out my projects here: https://replit.com/@qar
 <!---
 vxdone/vxdone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
